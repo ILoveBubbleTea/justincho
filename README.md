@@ -1,2 +1,2 @@
 # justincho
-wǒ shì yī gè yī liáo háng yè deJava kāi fā rén yuán
+这是一个医疗项目
